@@ -1,0 +1,96 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Terms and Conditions – Sparkwynn</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      max-width: 800px;
+      margin: 40px auto;
+      padding: 0 20px;
+      color: #333;
+      line-height: 1.6;
+      background-color: #f9f9f9;
+    }
+    h1, h2 {
+      color: #222;
+    }
+    h1 {
+      margin-bottom: 0.2em;
+    }
+    h2 {
+      margin-top: 1.5em;
+    }
+    p {
+      margin: 0.8em 0;
+    }
+    .contact-email {
+      font-weight: bold;
+      color: #0066cc;
+      text-decoration: none;
+    }
+  </style>
+</head>
+<body>
+  <h1>Terms and Conditions – Sparkwynn</h1>
+  <p><em>Last updated: August 8, 2025</em></p>
+
+  <p>Welcome to <strong>Sparkwynn</strong> (“the Application”), developed by <strong>Eduardo Ferrari</strong> (“we”, “our”, “us”).<br />
+  By downloading or using this Application, you agree to comply with these Terms and Conditions of Use.<br />
+  If you do not agree with these terms, please do not use the Application.</p>
+
+  <h2>1. Purpose of the Application</h2>
+  <p>Sparkwynn is a mobile application designed to help people get better at texting.<br />
+  Use of the Application is strictly for personal and non-commercial purposes, unless expressly authorized.</p>
+
+  <h2>2. Acceptance of the Terms</h2>
+  <p>By using the Application, you confirm that you have read, understood, and accepted these Terms, and that you will comply with all applicable laws and regulations.</p>
+
+  <h2>3. Permitted Use</h2>
+  <p>You agree to:</p>
+  <ul>
+    <li>Not use the Application for any illegal, fraudulent, or unauthorized activities.</li>
+    <li>Not modify, decompile, or reverse engineer the Application.</li>
+    <li>Not infringe on the rights of third parties (including copyrights, trademarks, or privacy rights).</li>
+  </ul>
+
+  <h2>4. Intellectual Property</h2>
+  <p>All content, design, logos, text, graphics, and code within the Application are the property of <strong>Eduardo Ferrari</strong> or its licensors, and are protected by intellectual property laws.<br />
+  Reproduction or distribution without prior written consent is prohibited.</p>
+
+  <h2>5. User Accounts</h2>
+  <p>If the Application requires account creation:</p>
+  <ul>
+    <li>You are responsible for maintaining the confidentiality of your login credentials.</li>
+    <li>You agree to provide accurate and up-to-date information.</li>
+    <li>We reserve the right to suspend or terminate accounts that violate these Terms.</li>
+  </ul>
+
+  <h2>6. Payments and Subscriptions</h2>
+  <p>If the Application offers paid features:</p>
+  <ul>
+    <li>Purchases will be processed through Google Play.</li>
+    <li>Subscriptions may automatically renew according to your chosen settings.</li>
+    <li>Refund policies will follow Google Play’s terms and conditions.</li>
+  </ul>
+
+  <h2>7. Limitation of Liability</h2>
+  <p>The Application is provided “as is” and “as available,” without warranties of any kind.<br />
+  We shall not be liable for any direct, indirect, incidental, or consequential damages resulting from the use or inability to use the Application.</p>
+
+  <h2>8. Modifications</h2>
+  <p>We may update these Terms at any time.<br />
+  Changes will take effect upon being posted on this page.<br />
+  We recommend reviewing them periodically.</p>
+
+  <h2>9. Governing Law</h2>
+  <p>These Terms are governed by the laws of <strong>Spain</strong>, and any disputes shall be resolved in the competent courts of Barcelona.</p>
+
+  <h2>10. Contact</h2>
+  <p>For inquiries regarding these Terms, you can contact us at:<br />
+    <a class="contact-email" href="mailto:yourturnai@gmail.com">yourturnai@gmail.com</a>
+  </p>
+</body>
+</html>
